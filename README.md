@@ -7,5 +7,5 @@ Fruit ninja clone I have made using Unity and C# following a Udemy Course by Den
 ### Windows
 Clone the repository, and double click on the Play-FruitNinja.exe file under the PlayFruitNinja folder!
 
-### Linux / Mac OS
+### Others
 Maybe one day!
