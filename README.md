@@ -19,7 +19,7 @@ This project is a simple clone of the popular mobile game **Fruit Ninja**, where
 FruitNinja/
 ├── 📁 Assets/            # Game assets (sprites, sounds, etc.)
 ├── 📁 ProjectSettings/    # Unity project settings
-├── 📄 PlayFruitNinja/     # Build folder containing the executable
+├── 📁 PlayFruitNinja/     # Build folder containing the executable
 ├── 📄 README.md           # Project documentation
 └── 📄 .gitignore          # Git ignore file
 ```
