@@ -1,11 +1,72 @@
-# Fruit Ninja
+# Fruit Ninja Unity Clone
 
-Fruit ninja clone I have made using Unity and C# following a Udemy Course by Denis Panjuta : The C# Masterclass
+**Fruit Ninja Unity Clone** is a 2D slicing game developed using Unity and C#. This project was created as part of a personal learning experience, following the C# Masterclass by Denis Panjuta on Udemy.
 
-## How to play the game ?
+## About The Project
 
-### Windows
-Clone the repository, and double click on the Play-FruitNinja.exe file under the PlayFruitNinja folder!
+This project is a simple clone of the popular mobile game **Fruit Ninja**, where players slice flying fruits with a swipe of their finger. The game was developed using Unity and C# to practice game development concepts and improve programming skills.
 
-### Others
-Maybe one day!
+## Built With
+
+- [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+- [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+## Getting Started
+
+### Folder Structure
+
+```markdown
+FruitNinja/
+├── 📁 Assets/            # Game assets (sprites, sounds, etc.)
+├── 📁 ProjectSettings/    # Unity project settings
+├── 📄 PlayFruitNinja/     # Build folder containing the executable
+├── 📄 README.md           # Project documentation
+└── 📄 .gitignore          # Git ignore file
+```
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- [Unity Hub](https://unity.com/download)
+- [Visual Studio](https://visualstudio.microsoft.com/) with Unity development workload
+
+### Installation & Build
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/JulesBobeuf/FruitNinja.git
+   cd FruitNinja
+   ```
+
+2. Open the project in Unity Hub.
+
+3. Build the project for your desired platform.
+
+### Running the Game
+
+- **Windows**: Navigate to the `PlayFruitNinja` folder and double-click `PlayFruitNinja.exe` to start the game.
+
+> ⚠️ **Note**: Currently, only Windows builds are available. Other platform builds may be added in the future.
+
+## My Configuration
+
+- **Operating System**: Windows 11
+- **Unity Version**: 2020.3 (LTS)
+- **IDE**: Visual Studio 2022
+
+## Resources
+
+- [C# Masterclass by Denis Panjuta on Udemy](https://www.udemy.com/course/csharp-masterclass/)
+- [Unity Documentation](https://docs.unity.com/)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Jules Bobeuf  
+[LinkedIn](https://www.linkedin.com/in/bobeuf-jules/)  
+bobeuf.jules@gmail.com
