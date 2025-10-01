@@ -1,10 +1,14 @@
-# Fruit Ninja Unity Clone
-
-**Fruit Ninja Unity Clone** is a 2D slicing game developed using Unity and C#. This project was created as part of a personal learning experience, following the C# Masterclass by Denis Panjuta on Udemy.
+<div align="center">
+  <h1 align="center">Fruit Ninja Unity Clone</h1>
+  <img src="assets/readme-fruit-ninja.png" alt="Fruit Ninja Screenshot" width="600">  <p align="center">
+    My Fruit Ninja clone, built with Unity in C#.
+</div>
 
 ## About The Project
 
-This project is a simple clone of the popular mobile game **Fruit Ninja**, where players slice flying fruits with a swipe of their finger. The game was developed using Unity and C# to practice game development concepts and improve programming skills.
+**Fruit Ninja Unity Clone** is a 2D slicing game developed using Unity and C#. This project was created as part of a personal learning experience, following the C# Masterclass by Denis Panjuta on Udemy.
+
+In this game, players slice flying fruits with a swipe of their finger while avoiding bombs.
 
 ## Built With
 
